@@ -4,3 +4,7 @@ node_modules/
 .env.*
 !.env.example
 .DS_Store
+
+# WorkBuddy 会话记忆，不需要进仓库
+.workbuddy/
+
